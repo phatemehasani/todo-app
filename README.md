@@ -14,4 +14,4 @@ A clean, responsive To-Do List application built from scratch using **HTML, CSS,
 * JavaScript (DOM Manipulation, Event Listeners, LocalStorage)
 
 ## Live Demo
-You can view the live application here: [Insert your GitHub Pages link here]
+You can view the live application here: (https://phatemehasani.github.io/todo-app/)
